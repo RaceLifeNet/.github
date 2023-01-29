@@ -1,1 +1,2 @@
-Race-Life offers Virtual And IRL Racing Communities For All Car Enthusiasts.
+<h1><img src="https://user-images.githubusercontent.com/80414685/215351757-6acdaa90-2692-4d56-b546-d49ac1232700.png" alt="race-life" height="30px" width="auto"/></h1>
+<h3><b>Racing Communities For All Car Enthusiasts.</b></h3>
